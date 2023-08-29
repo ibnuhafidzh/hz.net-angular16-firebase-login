@@ -1,10 +1,9 @@
 # HzNetAngular16FirebaseLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
-
-![HzNet-Angular16-Firebase-Sucess-Login](h.znet angular login success.jpeg)
-![HzNet-Angular16-Firebase-reset](h.znet angular resetpasssword.jpeg)
-![HzNet-Angular16-Firebase-signin](h.znet angular signin.jpeg)
+[HzNet-Angular16-Firebase-Sucess-Login](loginsuccess.jpeg)
+[HzNet-Angular16-Firebase-reset](resetpasssword.jpeg)
+[HzNet-Angular16-Firebase-signin](signin.jpeg)
 
 ## Development server
 
